@@ -2,6 +2,8 @@
 
 **Implement a Transfer Learning concept in Image Classification**
 
+**Name:Boopathy S**
+**Register Number:2305003002**
 **AIM**
 
 To develop an image classification model using transfer learning with VGG19 architecture for the given dataset.
@@ -32,12 +34,6 @@ STEP 7: We visualize the training and validation loss to monitor the model's lea
 STEP 8: We evaluate the trained model's performance using the testing data, generating a classification report and confusion matrix to assess accuracy and potential misclassifications.
 
 STEP 9: We demonstrate the model's practical use by randomly selecting and testing a new cell image for classification.
-
-**PROGRAM**
-
-**Name:Boopathy S**
-
-**Register Number:2305003002**
 
 **PROGRAM**
 ```python
